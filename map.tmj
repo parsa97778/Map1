@@ -8164,7 +8164,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "Map (2).tmj#from-office"
+              "value": "Maps.tmj#from-office"
             }
           ],
           "rotation": 0,
@@ -9525,7 +9525,7 @@
     {
       "columns": 15,
       "firstgid": 1,
-      "image": "map-chunk-1-c1c2bd5c.png",
+      "image": "map-chunk-1-f9350ea8.png",
       "imageheight": 480,
       "imagewidth": 480,
       "margin": 0,
