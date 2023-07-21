@@ -684,11 +684,6 @@
          "name":"mapName",
          "type":"string",
          "value":"Office"
-        }, 
-        {
-         "name":"script",
-         "type":"string",
-         "value":"https:\/\/unpkg.com\/@workadventure\/scripting-api-extra@^1\/dist\/bundle.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.10.1",
