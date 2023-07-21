@@ -572,7 +572,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"Maps.tmj#from-office"
+                         "value":"maps#from-office"
                         }],
                  "rotation":0,
                  "type":"area",
