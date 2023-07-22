@@ -8012,17 +8012,6 @@
       "name": "floorLayer",
       "objects": [
         {
-          "id": 12,
-          "name": "clockPopup",
-          "visible": true,
-          "x": 483.919325398621,
-          "y": 14.0269116471316,
-          "height": 61.6672851518306,
-          "rotation": 0,
-          "type": "",
-          "width": 93.7162209047986
-        },
-        {
           "id": 13,
           "name": "jitsiChillZone",
           "visible": true,
@@ -9525,7 +9514,7 @@
     {
       "columns": 15,
       "firstgid": 1,
-      "image": "map-chunk-1-ac93b14f.png",
+      "image": "map-chunk-1-7b953f8b.png",
       "imageheight": 480,
       "imagewidth": 480,
       "margin": 0,
