@@ -428,17 +428,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":61.6672851518306,
-                 "id":12,
-                 "name":"clockPopup",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":93.7162209047986,
-                 "x":483.919325398621,
-                 "y":14.0269116471316
-                }, 
-                {
                  "height":128,
                  "id":13,
                  "name":"jitsiChillZone",
