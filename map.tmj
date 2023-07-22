@@ -8153,7 +8153,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "maps#from-office"
+              "value": "maps#from-map"
             }
           ],
           "rotation": 0,
@@ -9514,7 +9514,7 @@
     {
       "columns": 15,
       "firstgid": 1,
-      "image": "map-chunk-1-f7fa82be.png",
+      "image": "map-chunk-1-c9f510b4.png",
       "imageheight": 480,
       "imagewidth": 480,
       "margin": 0,
