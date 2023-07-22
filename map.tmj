@@ -561,7 +561,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"maps#from-office"
+                         "value":"maps#from-map"
                         }],
                  "rotation":0,
                  "type":"area",
