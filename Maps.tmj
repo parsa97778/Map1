@@ -20032,7 +20032,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "map#entry-from-maps"
+              "value": "map.tmj#entry-from-maps"
             }
           ],
           "x": 0,
@@ -130797,42 +130797,6 @@
           "rotation": 0,
           "type": "area",
           "width": 210
-        },
-        {
-          "id": 61,
-          "name": "entry-from-map",
-          "visible": true,
-          "x": 1566,
-          "y": 3072,
-          "height": 128,
-          "properties": [
-            {
-              "name": "startLayer",
-              "type": "bool",
-              "value": true
-            }
-          ],
-          "rotation": 0,
-          "type": "area",
-          "width": 68
-        },
-        {
-          "id": 62,
-          "name": "exit-to-map",
-          "visible": true,
-          "x": 1568,
-          "y": 3078,
-          "height": 119,
-          "properties": [
-            {
-              "name": "exitUrl",
-              "type": "string",
-              "value": "map#entry-from-maps"
-            }
-          ],
-          "rotation": 0,
-          "type": "area",
-          "width": 59
         }
       ],
       "opacity": 1,
@@ -150893,7 +150857,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "Maps-chunk-1-1c4d517c.png",
+      "image": "Maps-chunk-1-84cd9480.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -150919,7 +150883,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "Maps-chunk-2-1c4d517c.png",
+      "image": "Maps-chunk-2-84cd9480.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -150934,7 +150898,7 @@
     {
       "columns": 12,
       "firstgid": 513,
-      "image": "Maps-chunk-3-1c4d517c.png",
+      "image": "Maps-chunk-3-84cd9480.png",
       "imageheight": 384,
       "imagewidth": 384,
       "margin": 0,
