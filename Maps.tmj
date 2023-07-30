@@ -225,7 +225,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"map#entry-from-maps"
+                         "value":"map.tmj#entry-from-maps"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -2049,40 +2049,6 @@
                  "width":210,
                  "x":2664,
                  "y":2640
-                }, 
-                {
-                 "height":128,
-                 "id":61,
-                 "name":"entry-from-map",
-                 "properties":[
-                        {
-                         "name":"startLayer",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":68,
-                 "x":1566,
-                 "y":3072
-                }, 
-                {
-                 "height":119,
-                 "id":62,
-                 "name":"exit-to-map",
-                 "properties":[
-                        {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"map#entry-from-maps"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":59,
-                 "x":1568,
-                 "y":3078
                 }],
          "opacity":1,
          "properties":[
